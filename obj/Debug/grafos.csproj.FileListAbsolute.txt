@@ -1,0 +1,6 @@
+/Users/alfredoramirez/Desktop/grafos/bin/Debug/grafos.exe
+/Users/alfredoramirez/Desktop/grafos/bin/Debug/grafos.pdb
+/Users/alfredoramirez/Desktop/grafos/obj/Debug/grafos.csprojAssemblyReference.cache
+/Users/alfredoramirez/Desktop/grafos/obj/Debug/grafos.csproj.CoreCompileInputs.cache
+/Users/alfredoramirez/Desktop/grafos/obj/Debug/grafos.exe
+/Users/alfredoramirez/Desktop/grafos/obj/Debug/grafos.pdb
